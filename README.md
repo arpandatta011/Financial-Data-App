@@ -1,4 +1,4 @@
-# Apple Financial Dashboard
+# Financial Dashboard
 
 A React-based financial dashboard that displays and analyzes Apple Inc.'s financial data using the Financial Modeling Prep API.
 
